@@ -32,7 +32,7 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 </div>
 
 ## Contact Channel
-[频道](t.me/masknovel)
+[点击加入频道](t.me/masknovel)
 
 
 ## Features
